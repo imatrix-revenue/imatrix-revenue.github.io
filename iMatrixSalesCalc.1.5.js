@@ -17,7 +17,7 @@ function calc() {
 	
 	// quick reality check on entered percentage
 	if (acqPer > .53) {
-		 document.write("Fruit is not available");
+		 document.write("Conversion Rates Over 50% Are Not Allowed");
 	} else {
 		acqPer = acqPer;
 	}
@@ -52,7 +52,7 @@ function calc() {
             serviceQualVal = 58;
         }
         else{
-            document.write("Fruit is not available");
+            document.write("One Or More Items Was Not Entered");
         }      
     //Create Variables and Create Algorithm for monthly and yearly Calculations
     var totalM_rev = (serviceQualVal * acqPer) * valOne;
