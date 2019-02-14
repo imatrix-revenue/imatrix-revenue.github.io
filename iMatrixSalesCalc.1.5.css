@@ -112,7 +112,7 @@ input[type=text] {
 }
 #results{
     text-align: center;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 20px;
     box-sizing: border-box;
     line-height: 200%;
