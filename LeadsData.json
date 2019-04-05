@@ -1,0 +1,20 @@
+{
+    "vet": [{
+        "dominator": 82,
+        "velocity": 29,
+        "premium": 58,
+        "advantage": 24
+    }],
+    "Chiro": [{
+        "dominator": 61,
+        "velocity": 10,
+        "premium": 44,
+        "advantage": 18
+    }],
+    "opto": [{
+        "dominator": 76,
+        "velocity": 15,
+        "premium": 58,
+        "advantage": 24
+    }]
+}
